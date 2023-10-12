@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "facial-rec-nn"
+version = "0.1.0"
+description = ""
+authors = ["Chiara Alcantara <92611941+chiaraalcantara@users.noreply.github.com>"]
+license = "Creative Commons Zero v1.0 Universal"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.1"
+brewer2mpl = "^1.4.1"
+numpy = "^1.26.0"
+matplotlib = "^3.8.0"
+sklearn = "^0.0.post10"
+skimage = "^0.0"
+keras = "^2.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
