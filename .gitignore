@@ -1,3 +1,5 @@
 fer2013.csv
 X_test_privatetest6_100pct.npy
 y_test_privatetest6_100pct.npy
+/facial_expression_model
+*.h5
