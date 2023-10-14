@@ -7,14 +7,16 @@ license = "Creative Commons Zero v1.0 Universal"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.12"
+numpy = "^1.26.0"
 pandas = "^2.1.1"
 brewer2mpl = "^1.4.1"
-numpy = "^1.26.0"
 matplotlib = "^3.8.0"
 sklearn = "^0.0.post10"
 skimage = "^0.0"
 keras = "^2.14.0"
+keras-utils = "^1.0.13"
+np-utils = "^0.6.0"
 
 
 [build-system]
