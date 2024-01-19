@@ -1,5 +1,3 @@
-Certainly! Here's the README with the "License" section removed:
-
 # Facial Recognition Neural Network
 
 ## Overview
